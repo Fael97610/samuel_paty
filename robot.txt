@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 
-https://infox-des-lumieres.netlify.app//robots.txt
