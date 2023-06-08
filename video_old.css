@@ -1,0 +1,59 @@
+body{
+    background-color: #fcecd4;
+}
+
+video {
+	width: 50%;
+	height: 600px;
+
+	display: block;
+	border: 10px ridge black;
+
+}
+.mavideo{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+
+
+
+button {
+	background-color: white;
+	border: none;
+	color: black;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 10px;
+	position: absolute;
+	position: relative;
+	font-family: poppins;
+	bottom: -5%;
+	margin-top:2%;
+	left: 2%;
+}
+.boite{
+    width: 900px;
+	height: 600px;
+	background-color:white;
+	margin-left: 20%;
+	margin-top: 3%;
+}
+.langue{
+    width: 900px;
+	height: 600px;
+	background-color:white;
+	margin-left: 20%;
+	margin-top: 15%;
+	margin-bottom: 10%;
+}
+.mavideo2{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

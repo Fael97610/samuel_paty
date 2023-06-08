@@ -1,0 +1,65 @@
+body{
+    background-image: url("leaves.jpg");
+background-size: 166%;
+scroll-behavior: auto;
+}
+
+video {
+	width: 50%;
+	height: 600px;
+
+	display: block;
+	border: 10px ridge black;
+
+}
+.mavideo{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+
+h1{
+	color: white;
+}
+
+button {
+	background-color: white;
+	border: none;
+	color: black;
+	padding: 10px 30px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 10px;
+	position: absolute;
+	position: relative;
+	font-family: poppins;
+	bottom: -5%;
+	margin-top:2%;
+	left: 2%;
+}
+.boite{
+    width: 959px;
+height: 662px;
+background-color: black;
+margin-left: 17%;
+margin-top: 3%;
+border-radius: 10%;
+}
+.langue{
+   
+width: 959px;
+height: 662px;
+background-color: black;
+margin-left: 17%;
+margin-top: 3%;
+border-radius: 10%;
+}
+.mavideo2{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
